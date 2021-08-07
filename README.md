@@ -13,7 +13,7 @@ Pictures style I/O technology involving the Creation, manipulation, storing and 
 4. **Viewing Transformation**: Transform into 3D camera coordinate system<br><br>
   First move the viewing point (P<sub>0</sub>) to the world coordinate system, then rotate it according to the camera coordinates.<br>
   ![matrix](https://user-images.githubusercontent.com/88317168/128609943-0365a10f-d025-486e-bf87-a7ee6a69569b.png)<br>
-  (R: Rotate Matrix, T: Translate Matrix)
+  (R: Rotate Matrix, T: Translate Matrix)<br>
   ![matrix2](https://user-images.githubusercontent.com/88317168/128609957-01f3ace6-b5b2-457b-b0e2-e2c0a06145c3.png)<br>
   (M: Viewing Matrix)
 
